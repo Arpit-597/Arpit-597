@@ -257,7 +257,7 @@ AI-powered interview preparation platform.
 
 # Open to Collaborate On
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Backend-0A66C2?style=for-the-badge"/>
 
