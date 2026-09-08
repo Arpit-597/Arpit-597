@@ -216,14 +216,6 @@ AI-powered interview preparation platform.
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-597&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 # GitHub Summary
 
 <p align="center">
